@@ -1,0 +1,49 @@
+body {
+    background-image: url('https://www.itl.cat/pngfile/big/8-81416_wallpaper-blurred-dawn.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh
+  }
+  
+  .menu{   
+    background-color: blur; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    color: silver;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title { 
+    text-align: center;
+    color: white;
+  }
+  
+  .site-subtitle {
+    color: white;
+    text-align: center;
+    font-style: abbey;
+  }
+    
+  .foto
+  img{
+    width: 20%
+  }
+  
+  .foto {
+    text-align: center;
+  }
+  
